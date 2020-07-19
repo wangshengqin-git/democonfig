@@ -1,0 +1,2 @@
+# democonfig
+配置
