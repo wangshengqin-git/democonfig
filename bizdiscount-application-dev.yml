@@ -31,7 +31,6 @@ spring:
         min-idle: 0
 mybatis:
   configuration:
-    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
   #扫描哪个包下的mapper映射文件
   mapper-locations: classpath:mapper/*.xml
   # type-aliases-package: com.mr.mr_classorder.po
