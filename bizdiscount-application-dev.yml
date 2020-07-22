@@ -1,5 +1,5 @@
 server:
-  port: 8764
+  port: 8765
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/wangshengqin?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
